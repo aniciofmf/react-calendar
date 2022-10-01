@@ -7,6 +7,7 @@
 
 1. Remember to run the backend first
 2. Edit .env with aiming to the right endpoint
+3. Install Workbox globally npm i -g workbox
 
 yarn install
 yarn build
