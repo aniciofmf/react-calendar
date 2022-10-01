@@ -1,10 +1,7 @@
 # React Calendar
 
-Simple calendar made in React to handle events
-
-[WIP] - Workbox
-[WIP] - PWA
-[WIP] - Replace react-router to the latest version
+1. Simple calendar made in React to handle events
+2. PWA capabilities
 
 # Get it running
 
